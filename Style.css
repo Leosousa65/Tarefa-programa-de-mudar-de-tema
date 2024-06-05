@@ -1,0 +1,15 @@
+
+:root {
+    --white: #f1f5f9;
+    --dark: #212529;
+}
+
+.is-light {
+    background-color: var(--white);
+    color: var(--dark);
+}
+
+.is-dark {
+    background-color: var(--dark);
+    color: var(--white);
+}
